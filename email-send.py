@@ -1,6 +1,6 @@
 print('''
-make by d5tr 
-insta = d_5tr
+make by d5tr  for 01 team !
+insta = d_5tr 
 #################################
 don't use tool for hurt anyone !!
 ''')
