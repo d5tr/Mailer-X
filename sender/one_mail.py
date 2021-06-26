@@ -11,7 +11,7 @@ def one_mail():
     send_to = str(input(f'[{Fore.BLUE}?{Fore.WHITE}] Enter mail to send :'))
 
     # messga
-    messga = str(input(f'[{Fore.BLUE}?{Fore.WHITE}] Enter messga :'))
+    messga = str(input(f'[{Fore.BLUE}?{Fore.WHITE}] Enter message :'))
     try:
         # gmail or yahoo or etc .. , port smtp for send
         server = smtplib.SMTP('smtp.gmail.com', 587)
@@ -23,7 +23,7 @@ def one_mail():
 
         # send messga
         server.sendmail(send_to, send_to, messga)
-        print(f'[{Fore.GREEN}+{Fore.WHITE}] sned messga done !')
+        print(f'[{Fore.GREEN}+{Fore.WHITE}] sned message done !')
     except:
         print(f'[{Fore.RED}-{Fore.WHITE}] login filed ..')
         exit()
