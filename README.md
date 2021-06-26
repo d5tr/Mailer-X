@@ -46,7 +46,7 @@ $ git clone https://github.com/d5tr/Mailer-X
 ```
 
 ```
-$ cd Malier-X
+$ cd Mailer-X
 ```
 
 ```
