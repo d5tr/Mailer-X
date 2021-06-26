@@ -24,6 +24,12 @@ $ ./installer.sh
 OR 
 $ bash installer
 ```
+
+# Usege :
+
+```
+$ python3 Mailer-X.py
+```
 *
 # For ISH :
 
@@ -43,6 +49,12 @@ $ chmod +x installer.sh
 $ ./installer.sh
 OR 
 $ bash installer
+```
+
+# Usege :
+
+```
+$ python3 Mailer-X.py
 ```
 
 # Follow me :
