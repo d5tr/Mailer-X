@@ -10,7 +10,7 @@ def list_mail():
     # send to
     send_to = open(input(f'[{Fore.BLUE}?{Fore.WHITE}] Enter list file mail :'), 'r').readlines()
     # messga
-    messga = str(input(f'[{Fore.BLUE}?{Fore.WHITE}] Enter messga :'))
+    messga = str(input(f'[{Fore.BLUE}?{Fore.WHITE}] Enter message :'))
 
     print(f'[{Fore.GREEN}+{Fore.WHITE}] Try login ...')
     for file in send_to:
@@ -27,7 +27,7 @@ def list_mail():
 
         # send messga
         server.sendmail(file, file, messga)
-        print(f'[{Fore.GREEN}+{Fore.WHITE}] sned messga done for -->', Fore.CYAN+file, Fore.WHITE)
+        print(f'[{Fore.GREEN}+{Fore.WHITE}] sned message done for -->', Fore.CYAN+file, Fore.WHITE)
 
 
 
