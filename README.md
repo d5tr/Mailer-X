@@ -1,5 +1,13 @@
 # Mailer-X
 
+* this tool for send mali
+* two choices in tool 
+* 1- for send to one email
+* 2- for send list email
+* Please use the tool for legal things
+* Enjoy ...
+
+
 
 
 # Installation :
