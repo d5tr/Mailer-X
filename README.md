@@ -4,15 +4,17 @@
 * two choices in tool 
 * 1- for send to one email
 * 2- for send list email
+* 3- sms
+* 4- sms twilio
 * Please use the tool for legal things
 * Enjoy ...
 
 ![Malier-X](https://github.com/d5tr/Mailer-X/blob/main/ma.png)
 
-
+*
 # Installation :
 
-
+*
 # For KALI LINUX :
 
 ```
@@ -33,11 +35,17 @@ OR
 $ bash installer
 ```
 
+```
+$ sudo python3 Setup.py
+```
+
+*
 # Usege :
 
 ```
-$ python3 Mailer-X.py
+$ sudo Mailer-X
 ```
+
 *
 # For ISH :
 
@@ -59,12 +67,25 @@ OR
 $ bash installer
 ```
 
+*
 # Usege :
 
 ```
 $ python3 Mailer-X.py
 ```
 
+# Uninstallation :
+
+*
+# For KALI LINUX 
+
+```
+$ sudo ./uninstaller.sh
+OR
+$ sudo bash uninstaller.sh
+```
+
+*
 # Follow me :
 
 
