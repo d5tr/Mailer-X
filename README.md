@@ -15,7 +15,7 @@
 # Installation :
 
 
-# For KALI LINUX :
+# KALI LINUX 
 
 ```
 $ sudo git clone https://github.com/d5tr/Mailer-X
@@ -47,7 +47,7 @@ $ sudo Mailer-X
 ```
 
 
-# For ISH :
+# ISH :
 
 ```
 $ git clone https://github.com/d5tr/Mailer-X
@@ -77,7 +77,7 @@ $ python3 Mailer-X.py
 # Uninstallation :
 
 
-# For KALI LINUX 
+# KALI LINUX 
 
 ```
 $ sudo ./uninstaller.sh
