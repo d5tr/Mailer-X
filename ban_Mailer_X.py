@@ -13,7 +13,7 @@ def miler_ban():
 Make by --> d_5tr
 team --> zero one 
 
-       [{Fore.CYAN}1{Fore.WHITE}] {Fore.CYAN}send for one mail{Fore.CYAN}
+       [{Fore.CYAN}1{Fore.WHITE}] {Fore.CYAN}send for one mail{Fore.WHITE}
        [{Fore.CYAN}2{Fore.WHITE}] {Fore.CYAN}send for list mail{Fore.WHITE}
        [{Fore.CYAN}3{Fore.WHITE}] {Fore.CYAN}send sms with textbelt{Fore.WHITE}
        [{Fore.CYAN}4{Fore.WHITE}] {Fore.CYAN}send sms with twilio{Fore.WHITE}
