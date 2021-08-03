@@ -9,7 +9,7 @@
 * Please use the tool for legal things
 * Enjoy ...
 
-![Malier-X](https://github.com/d5tr/Mailer-X/blob/main/ma.png)
+![Malier-X](https://github.com/d5tr/Mailer-X/blob/main/mx.png)
 
 *
 # Installation :
