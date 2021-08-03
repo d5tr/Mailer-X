@@ -11,10 +11,10 @@
 
 ![Malier-X](https://github.com/d5tr/Mailer-X/blob/main/mx.png)
 
-*
+
 # Installation :
 
-*
+
 # For KALI LINUX :
 
 ```
@@ -39,14 +39,14 @@ $ bash installer
 $ sudo python3 Setup.py
 ```
 
-*
+
 # Usege :
 
 ```
 $ sudo Mailer-X
 ```
 
-*
+
 # For ISH :
 
 ```
@@ -67,7 +67,7 @@ OR
 $ bash installer
 ```
 
-*
+
 # Usege :
 
 ```
@@ -76,7 +76,7 @@ $ python3 Mailer-X.py
 
 # Uninstallation :
 
-*
+
 # For KALI LINUX 
 
 ```
@@ -85,7 +85,7 @@ OR
 $ sudo bash uninstaller.sh
 ```
 
-*
+
 # Follow me :
 
 
